@@ -8,6 +8,8 @@
 
 ## Running the Agent
 
+To run the agent in CLI, you can use the following command:
+
 ```bash
 python main.py
 ```
